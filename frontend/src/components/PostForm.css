@@ -1,0 +1,33 @@
+.post-form-container {
+  margin-bottom: 20px;
+}
+
+.post-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.post-input {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.post-btn {
+  padding: 10px 20px;
+  background-color: #0073b1;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.post-btn:hover {
+  background-color: #005a8e;
+}

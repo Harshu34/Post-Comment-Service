@@ -1,0 +1,160 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+
+/* 
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.post-card {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.post-card h2 {
+  color: #333;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.post-card p {
+  color: #666;
+}
+
+.comments-section {
+  margin-top: 10px;
+}
+
+.comment {
+  background-color: #fff;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.comment p {
+  color: #444;
+  font-size: 0.9rem;
+}
+ */
+
+
+
+ .App {
+  font-family: Arial, sans-serif;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.App-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.post-form {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.post-form input,
+.post-form textarea {
+  flex: 1;
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.post-form button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+
+.post-form button:hover {
+  background-color: #0056b3;
+}
+
+.posts-container {
+  display: grid;
+  gap: 20px;
+}
+
+.post-card {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.comments-section {
+  margin-top: 10px;
+}
+
+.comment {
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 3px;
+}
