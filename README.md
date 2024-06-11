@@ -79,15 +79,6 @@ MONGO_URI=Your environment variable for the MongoDB server.
 PORT=5000
 ```
 
-For Sample use:
-
-```bash
-MONGO_URI = mongodb+srv://harsh:harsh@cluster0.8b310z0.mongodb.net/?retryWrites=true&w=majority
-PORT=5000
-```
-
-## Disclaimer: Do not misbehave for the above URI, this will be given only for the sake of simplicity for the project.
-
 # Running the Application
 
 **Navigate to server directory:**
