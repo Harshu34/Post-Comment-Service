@@ -86,9 +86,9 @@ MONGO_URI = mongodb+srv://harsh:harsh@cluster0.8b310z0.mongodb.net/?retryWrites=
 PORT=5000
 ```
 
-#Disclaimer: Do not misbehave for the above URI, this will be given only for the sake of simplicity for the project.
+## Disclaimer: Do not misbehave for the above URI, this will be given only for the sake of simplicity for the project.
 
-### Running the Application
+# Running the Application
 
 **Navigate to server directory:**
 
@@ -120,6 +120,6 @@ npm start
 http://localhost:3000
 ```
 
-## Contributions and Features for the Application Project.
+# Contributions and Features for the Application Project.
 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request for review.
