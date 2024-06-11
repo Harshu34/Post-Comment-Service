@@ -2,7 +2,7 @@
 
 The Post-Comments Service is a full-stack web application designed to facilitate the creation and interaction of posts and comments. Built using MongoDB, Express.js, React.js, and Node.js (MERN stack), this application allows users to create text-based posts on various topics of interest. Each post can have multiple comments, enabling users to engage in discussions and share their thoughts. The backend server handles data storage using MongoDB with Mongoose as the ODM, providing efficient management of posts and comments through RESTful APIs. On the frontend, React.js ensures a dynamic and responsive user interface, where users can seamlessly create posts and add comments in real-time without needing to refresh the page. The project emphasizes a clean MVC architecture, separating data models, server routes, and UI components for clarity and scalability. Overall, the Post-Comments Service aims to provide a user-friendly platform for sharing ideas and fostering community interaction through intuitive web functionalities.
 
-## Project Structure
+# Project Structure
 
 post-comments-service/
 ├── client/ # Frontend React application
@@ -22,18 +22,18 @@ post-comments-service/
 ├── server.js # Node.js server setup
 └── README.md # Project documentation
 
-## Getting Started
+# Getting Started
 
 To get a local copy of this project up and running on your machine, follow these steps:
 
-### Prerequisites
+## Prerequisites
 
 Make sure you have the following installed on your system:
 
 - Node.js (v14.0.0 or later)
 - MongoDB (Make sure MongoDB server is running locally or accessible)
 
-### Installation
+## Installation
 
 1. **Clone the repository:**
 
